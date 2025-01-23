@@ -13,10 +13,5 @@ SpeechCraft is a Python-powered project designed to perform speech recognition t
 ## Technologies Used
 - **Python**
 - **SpeechRecognition Library**
-- **Librosa** for audio processing
+- **Pyttsx3** 
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/SpeechCraft.git
-   cd SpeechCraft
